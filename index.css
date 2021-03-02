@@ -1,0 +1,20 @@
+h1{
+
+    color:green;
+    font-weight: 700;
+    
+    }
+    
+    p{
+    
+    color: brown;
+    font-weight: 450;
+    font-style:italic;
+    
+    }
+    li{
+        color:brown
+    }
+    *{
+        background-color: lightcyan
+    }
